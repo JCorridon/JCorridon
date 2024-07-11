@@ -10,13 +10,10 @@
 
 ## Future Project List:
 1. Profile Website (HTML/CSS/Javascript)
-    - Project Card List With links
-    - Hosting the Website on a free server
-    - 2048 game in browser
-2. Fun Fact Generator Web App (python)
-3. Make a background generator (HTML/CSS/Javascript)
-4. Desktop Destiny 2 News Notifier (python)
-5. 
+2. Sorting algorithm runtime tracker (python)
+3. 2048 Game Clone (HTML/CSS/Javascript)
+4. Personal Book Library (SQL)
+5. Goodreads clone (React.js/SQL)
 
 <!---
 JCorridon/JCorridon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
