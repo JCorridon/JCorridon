@@ -9,11 +9,9 @@
 - Fun fact: I was the team captain of both my college and high school fencing teams!
 
 ## Future Project List:
-1. Profile Website (HTML/CSS/Javascript)
-2. Sorting algorithm runtime tracker (python)
-3. 2048 Game Clone (HTML/CSS/Javascript)
-4. Personal Book Library (SQL)
 5. Goodreads clone (React.js/SQL)
+6. Creating My own Logistic Regression Algorithm and Testing It
+7. 
 
 <!---
 JCorridon/JCorridon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
